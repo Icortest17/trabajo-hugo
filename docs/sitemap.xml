@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/ninicolino-locche/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/posts/ninicolino-locche/</loc>
     <lastmod>2022-01-27T09:17:11+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/posts/</loc>
     <lastmod>2022-01-27T09:17:11+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/</loc>
     <lastmod>2022-01-27T09:17:11+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/posts/primer-post/</loc>
     <lastmod>2022-01-27T09:12:09+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/contacto/</loc>
     <lastmod>2022-01-27T09:06:25+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://icortest17.github.io/trabajo-hugo/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://icortest17.github.io/trabajo-hugo/'
 languageCode = 'es'
 title = 'Trabajo Hugo Isaac'
 theme = 'tale'
