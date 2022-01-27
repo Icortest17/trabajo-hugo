@@ -6,4 +6,4 @@ draft: False
 
 Bienvenidos a mi blog, en este blog hablaremos sobre todas las novedades deportivas dedicandonos principalmente a los deportes de contacto buscando darles mas visibilidad.
 
-![Example image](/imagen.jpg) 
+![Example image](/trabajo/static/imagen.jpg) 
